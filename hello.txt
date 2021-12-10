@@ -1,2 +1,2 @@
-i am in the master
+i
 i am the master from the remote
